@@ -1,4 +1,4 @@
-nome : Gerar Dados
+nome : Gerar Dadosnome : Gerar Dados
 
 em :
   schedule : # executa a cada 12 horas
@@ -14,7 +14,7 @@ empregos :
       - usa : Platane/snk@master
         id : cobra-gif
         com :
-          github_user_name : rafaballerini
+          github_user_name :melissamaciel
           svg_out_path : dist/github-contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
